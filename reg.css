@@ -1,0 +1,95 @@
+body{
+    justify-items: center;
+    background-color: rgb(0, 0, 0);
+    margin-top: 50px;
+}
+
+
+.container1{
+    height: 530px;
+    width: 300px;
+    border: 3px solid rgb(16, 181, 202);
+background-color: whitesmoke;
+    backdrop-filter: blur(120px);
+    justify-items: center;
+    background-color: grey;
+}
+h5{
+    color: rgb(0, 0, 0);
+    text-align: center; 
+    font: 1em sans-serif;
+    font-weight: 900;
+    height: 33px;
+    width: 200px;
+    border: 1px solid;
+    margin-top: 20px;
+    border-radius: 2rem;
+  
+   background: paleturquoise;
+
+
+
+
+}
+form{
+   
+    height: 71%;
+    border: 1px solid;
+    width: 80%;
+    justify-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+   
+   
+
+}
+input{
+    margin-top: 5px;
+    height: 30px;
+    width: 95%;
+    background: transparent;
+    color: rgb(253, 253, 253);
+    padding-left: 8px;
+    
+}
+label{
+    font-weight: 800;
+    padding-left: 10px;
+    font-size: small;
+   
+
+}
+
+
+::placeholder{
+    color: aliceblue;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   padding-left: 8px;
+    
+}
+button{
+    margin-left: 38%;
+    margin-top: 36px;
+    height: 20px;
+    width: 60px;
+    background-color: black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+}
+button:hover{
+    background-color:red ;
+    color:white;
+}
+footer{
+    font-size: small;
+    color: white;
+    margin-top: 42px;
+    text-decoration: none;
+}
+.f1{
+    color: black;
+    text-decoration: none;
+
+}

@@ -1,0 +1,147 @@
+body{
+    background-color: bisque;
+margin-left: 20px;
+justify-items: center;
+
+}
+.om{
+    height: 600px;
+    width: 600px;
+    border: 1px solid;
+    margin-bottom: 80px;
+    padding-left: 30px;
+    
+    
+    
+  
+   
+
+}
+.cont1{
+    height: 120px;
+    width: 120px;
+    border: 1px solid ;
+    margin-top: 8px;
+
+  
+        width: 100px;
+        height: 100px;
+        background-color: #fff;
+        border: 0px solid #ddd;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 50px;
+        cursor: pointer;
+      }
+      .two{
+        
+            height: 120px;
+            width: 120px;
+            border: 1px solid ;
+            margin-top: 8px;
+        
+          
+                width: 100px;
+                height: 100px;
+                background-color: #fff;
+                border: 0px solid #ddd;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                font-size: 50px;
+                cursor: pointer;
+              }
+              .thre{
+                height: 120px;
+                width: 120px;
+                border: 1px solid ;
+                margin-top: 8px;
+            
+              
+                    width: 100px;
+                    height: 100px;
+                    background-color: #fff;
+                    border: 0px solid #ddd;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    font-size: 50px;
+                    cursor: pointer;
+                  }
+                  .fo{
+                    height: 120px;
+                    width: 120px;
+                    border: 1px solid ;
+                    margin-top: 8px;
+                
+                  
+                        width: 100px;
+                        height: 100px;
+                        background-color: #fff;
+                        border: 0px solid #ddd;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        font-size: 50px;
+                        cursor: pointer;
+                      }
+                      .fuv{
+                       
+                        border: 1px solid ;
+                        margin-top: 8px;
+                    
+                      
+                            width: 100px;
+                            height: 100px;
+                            background-color: #fff;
+                            border: 0px solid #ddd;
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            font-size: 50px;
+                            cursor: pointer;
+                            float: right;
+                            margin-right: 50px;
+                          }
+                          .fiv{
+                       
+                            border: 1px solid ;
+                            margin-top: 8px;
+                        
+                          
+                                width: 100px;
+                                height: 100px;
+                                background-color: #fff;
+                                border: 0px solid #ddd;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+                                font-size: 50px;
+                                cursor: pointer;
+                                float: right;
+                                margin-right: 50px;
+                              }
+                              .fav{
+
+                                border: 1px solid ;
+                            margin-bottom: 500px;
+                        
+                          
+                                width: 100px;
+                                height: 100px;
+                                background-color: #fff;
+                                border: 0px solid #ddd;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+                                font-size: 50px;
+                                cursor: pointer;
+                                float: right;
+                                margin-right: 50px;
+
+
+                              }
+
+    
+
